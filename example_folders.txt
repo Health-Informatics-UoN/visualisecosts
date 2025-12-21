@@ -1,0 +1,18 @@
+# Example configuration file for plot-costs
+# Each line should contain a path to a folder containing .xlsx files
+# Optionally, you can specify settings per folder:
+#   folder_path [projection_end_date] [year_start_month]
+# Empty lines and lines starting with '#' are ignored
+# Settings in the config file override command-line defaults
+
+# Examples:
+# /path/to/folder1
+# /path/to/folder2 2027-12-31 7
+# /path/to/folder3 7
+# /path/to/folder4 2028-06-30
+
+# Replace these paths with your actual folder paths:
+# /path/to/your/first/folder
+# /path/to/your/second/folder
+# /path/to/your/third/folder
+
